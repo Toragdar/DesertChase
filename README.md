@@ -1,2 +1,2 @@
-# DesertChase Prototype
- 
+# DesertChase 
+ Prototype of the game
